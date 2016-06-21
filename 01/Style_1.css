@@ -1,49 +1,64 @@
-        h1 {
-            font-size:50px ;
-            background-color:black ;
-            color: chocolate
-        }
-       
-        ul {
-            font-family: Futura ;
-            color:black;
-        }
-        
-        
-    /* width line color*/
-        
-        body{
-            border: 4px dashed chocolate ;
-        }
-    
-        div.box {
-            height: 500px;
-            width: 500px;
-            background-color:black; 
-        }
-        ul {
-            height:30% ;
-            width:50% ;
-            background-color:sandybrown
-        }
-        
-        a:link {
-            color:white ;
-            text-decoration: bold ;
-        }
-        
-        a:hover { /*mouse-over state */
-            text-decoration:underline ;
-                
-        }
-        
-        a:active { /*click state*/
-            color:blue ;
-        }
-        
-        a:visited { /*visited state*/
-            color:red ;
-            
-        }
-        
-        
+h0 {
+    border-style:solid ;
+    border-color:black ;
+    padding-left: 20px ;
+    font-size:45px ;
+    background-color:sandybrown;
+    color: black ;
+    font-family:futura ;
+}
+
+/* width line color*/
+
+body{
+    border: 4px dashed chocolate ;
+    background-color: chocolate ;
+    font-family:"Lato", sans-serif ;
+}
+
+div.box {
+    height: 500px;
+    width: 500px;
+    background-color:black; 
+}
+ul {
+    padding-top:2em ;
+    font-family:"Lato", sans-serif ;
+    border: 2px solid black ;
+    height:30% ;
+    width:50% ;
+    background-color:sandybrown
+}
+
+a:link {
+    color:antiquewhite;
+    text-decoration: bold ;
+}
+
+a:hover { /*mouse-over state */
+    color: chocolate ;
+}
+
+a:active {
+    color:blue ;
+}
+
+a:visited { /*visited state*/
+    color:red ;
+
+}
+
+b {
+    font-size: 30px ;
+}
+
+ol {
+    background-color: sandybrown ;
+    height:30% ;
+    width:80% ;
+    padding-top: 30px ;
+    line-height:26px ;
+    border:2px solid black ;
+}
+
+
