@@ -1,0 +1,49 @@
+        h1 {
+            font-size:50px ;
+            background-color:black ;
+            color: chocolate
+        }
+       
+        ul {
+            font-family: Futura ;
+            color:black;
+        }
+        
+        
+    /* width line color*/
+        
+        body{
+            border: 4px dashed chocolate ;
+        }
+    
+        div.box {
+            height: 500px;
+            width: 500px;
+            background-color:black; 
+        }
+        ul {
+            height:30% ;
+            width:50% ;
+            background-color:sandybrown
+        }
+        
+        a:link {
+            color:white ;
+            text-decoration: bold ;
+        }
+        
+        a:hover { /*mouse-over state */
+            text-decoration:underline ;
+                
+        }
+        
+        a:active { /*click state*/
+            color:blue ;
+        }
+        
+        a:visited { /*visited state*/
+            color:red ;
+            
+        }
+        
+        
