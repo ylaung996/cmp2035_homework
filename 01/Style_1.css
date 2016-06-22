@@ -27,7 +27,8 @@ ul {
     border: 2px solid black ;
     height:30% ;
     width:50% ;
-    background-color:sandybrown
+    background-color:sandybrown;
+    list-style-type:circle ;
 }
 
 a:link {
