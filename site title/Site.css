@@ -1,0 +1,133 @@
+.supnav {
+background-color: #6b6565;
+                
+height: 50px;
+width: inherit;
+}  
+.links a {
+font-family: sans-serif;
+color: #ffffff;
+margin: 20px;
+/*float:right;*/
+text-decoration: none;
+}
+.links {
+color: #ffffff;
+float: right;
+width: 300px;
+height: 40px;
+text-decoration: none;
+}
+.titletext {
+position: static;
+height: 80px;
+font-family: helvetica; font-size: 1.5em;
+                padding: 30px;
+z-index: -3;
+}
+.navlinks {
+color: #ffffff;
+background-color: #ffffff;
+font-family: helvetica;
+height: 60px;
+    font-size: 20px;
+}
+div.navlinks > .nav > a.nav {
+color: #000000;
+position:relative;
+top: 20px;
+font-family: helvetica;
+font-weight: bolder;
+margin: 30px;
+text-decoration: none;
+}
+body {
+background-color:  #e6e7e8;
+margin:0;
+    }
+h2 {
+    font-family: helvetica;
+    padding-left: 30px;
+/*    padding-top:19px;*/
+    color: #d5602a;
+}
+
+.ph1 {
+    font-family: helvetica;
+    padding-left: 30px;
+    font-size: 12.5px ;
+    padding-bottom:19px ;
+    line-height: 150% ;
+}
+.ph2 {
+    font-family: helvetica;
+    padding-left: 30px;
+    font-size: 12.5px ;
+    padding-bottom:19px ;
+    line-height: 150% ;
+}
+
+.ph3 {
+    font-family: helvetica;
+    padding-left: 30px;
+    font-size: 12.5px ;
+    line-height: 150% ;
+}
+
+.redbox{
+    width:150px;
+    height:150px;
+    padding:5px;
+    background-color: #d5602a ;
+    float:right;
+    position:relative;
+}
+.blackbox{
+    width:150px;
+    height:150px;
+    padding:5px;
+    background-color:#000000 ;
+    float:right;
+}
+
+.blackbox1{
+    width:150px;
+    height:150px;
+    padding:5px;
+    background-color:#d5602a ;
+    float:right;
+}
+
+.redbox1{
+     width:150px;
+    height:150px;
+    padding:5px;
+    background-color:#d5602a ;
+    float:right;
+    position:static;
+    }
+
+.blackbox2{
+     width:150px;
+    height:150px;
+    padding:5px;
+    background-color:#000000 ;
+    float:right;
+    position:static;
+}
+
+.redbox2{
+     width:150px;
+    height:150px;
+    padding:5px;
+    background-color:#000000 ;
+    
+    
+}
+
+.box{
+        position:static;
+    float:right;
+}
+
+-->
