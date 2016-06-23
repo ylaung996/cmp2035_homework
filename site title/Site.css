@@ -101,7 +101,7 @@ h2 {
 .redbox1{
      width:150px;
     height:150px;
-    padding:5px;
+    margin:5px;
     background-color:#d5602a ;
     float:right;
     position:static;
@@ -117,7 +117,7 @@ h2 {
 }
 
 .redbox2{
-     width:150px;
+    width:150px;
     height:150px;
     padding:5px;
     background-color:#000000 ;
@@ -125,9 +125,38 @@ h2 {
     
 }
 
-.box{
-        position:static;
-    float:right;
+.boxes {
+    float: right;
+/*    width: 350px ;*/
+    height: 100% ;
 }
 
--->
+.box {
+    
+    width:150px;
+    height:150px;
+    background-color: black ;
+    margin-bottom: 10px ;
+}
+
+.orange {
+        background-color: #d5602a ;
+}
+
+.left_column {
+    float: left ;
+    margin-right: 10px ;
+    margin-left: 20px ;
+}
+
+.right_column {
+    float: right ;
+    margin-right: 20px ;
+
+}
+
+article {
+    font-family: helvetica;
+    margin-left: 30px ; 
+}
+
